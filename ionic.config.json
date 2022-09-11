@@ -1,0 +1,7 @@
+{
+  "name": "apventas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
